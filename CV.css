@@ -359,7 +359,7 @@ body, html {
 
 .link {
   position: absolute;
-  bottom: 10%;
+  bottom: 8%;
   left: 42.5%;
   height: 70px;
   width: 70px;
@@ -516,7 +516,7 @@ body, html {
 }
 
 .amp3 {
-  height: 700px;
+  height: 690px;
   width: 470px;
   position: absolute;
   top: 30px;
@@ -576,7 +576,7 @@ body, html {
 }
 
 .summery {
-  height: 360px;
+  height: 340px;
   width: 950px;
   background-color: #00ccff40;
   position: absolute;
@@ -586,7 +586,7 @@ body, html {
 }
 
 .wrkexp {
-  height: 325px;
+  height: 300px;
   width: 950px;
   background-color: #00ccff40;
   position: absolute;
