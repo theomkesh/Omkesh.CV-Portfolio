@@ -586,7 +586,7 @@ body, html {
 }
 
 .wrkexp {
-  height: 300px;
+  height: 310px;
   width: 950px;
   background-color: #00ccff40;
   position: absolute;
@@ -681,5 +681,5 @@ table, th, td, tr {
   left: 50px;
   font-family: cursive;
   font-size: 18px;
-  line-height: 1.9;
+  line-height: 1.5;
 }
